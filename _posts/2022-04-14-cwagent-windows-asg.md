@@ -1,3 +1,10 @@
+---
+layout: post
+title: AWS: CloudwatchAgent Setup Windows with Autoscaling
+author: Sukanya M
+categories: [AWS]
+tags: [AWS, devops, ]
+---
 
 ## AWS: CloudwatchAgent Setup Windows with Autoscaling
 
