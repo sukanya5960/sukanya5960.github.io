@@ -4,6 +4,9 @@ title: AWS: CloudwatchAgent Setup Windows with Autoscaling
 author: Sukanya M
 categories: [AWS]
 tags: [AWS, devops, ]
+date: 2022-05-25 11:33:00 +0800
+math: true
+mermaid: true
 ---
 
 ## AWS: CloudwatchAgent Setup Windows with Autoscaling
