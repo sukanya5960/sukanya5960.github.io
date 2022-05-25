@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Windows instance in autoscaling group to automatically join Active Directory
+title: Windows instance in autoscaling group automatically join to Active Directory
 author: Sukanya M
 categories: [AWS]
 tags: [AWS, devops, Windows]
