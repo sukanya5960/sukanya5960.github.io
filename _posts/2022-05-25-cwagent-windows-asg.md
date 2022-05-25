@@ -3,21 +3,21 @@ layout: post
 title: AWS: CloudwatchAgent Setup Windows with Autoscaling
 author: Sukanya M
 categories: [AWS]
-tags: [AWS, devops, ]
+tags: [AWS, devops]
 date: 2022-05-25 12:46:00 +0800
 math: true
 mermaid: true
+
 ---
 
-## AWS: CloudwatchAgent Setup Windows with Autoscaling
 
 In order to monitor memory and disk usage, you need to install Cloudwatch agent in the EC2 instance.
 
-Create IAM role > CloudWatchAgentServerPolicy > and attach it to the instance 
+Create IAM role > CloudWatchAgentServerPolicy > and attach it to the instance
 
 Add [CloudWatchAgentAdminPolicy](https://console.aws.amazon.com/iam/home?region=us-east-1#/policies/arn%3Aaws%3Aiam%3A%3Aaws%3Apolicy%2FCloudWatchAgentAdminPolicy) and [AmazonEC2RoleforSSM](https://console.aws.amazon.com/iam/home?region=us-east-1#/policies/arn%3Aaws%3Aiam%3A%3Aaws%3Apolicy%2Fservice-role%2FAmazonEC2RoleforSSM)
 
-Access Windows server >> Powershell 
+Access Windows server >> Powershell
 
 Download the installation file
 ```sh
