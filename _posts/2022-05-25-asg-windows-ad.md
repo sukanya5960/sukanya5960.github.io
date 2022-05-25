@@ -20,7 +20,7 @@ When you need AWS managed Active directory for Windows instances in an autoscali
 
 ##### To automatically join a newly added Windows instance in an autoscaling group to AWS Managed Microsoft AD directory:
 
-1. Manually join the EC2 Windows instance to active directory using [this](https://sukanya5960.github.io/posts/manually-join-ec2-ad/) steps.
+1. Select the instance you are going to take AMI and first, manually join that instance to active directory using [this](https://sukanya5960.github.io/posts/manually-join-ec2-ad/) steps.
 
 2. Login to the instance as administrator user and now we need to create a task in task scheduler. This task will change the hostname of server and join the instance to active directory at system startup
 
