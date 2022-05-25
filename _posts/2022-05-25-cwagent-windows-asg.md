@@ -1,13 +1,15 @@
 ---
-layout: post
-title: AWS: CloudwatchAgent Setup Windows with Autoscaling
-author: Sukanya M
-categories: [AWS]
-tags: [AWS, devops]
-date: 2022-05-25 12:46:00 +0800
+title: Text and Typography
+author: Cotes Chung
+date: 2019-08-08 11:33:00 +0800
+categories: [Blogging, Demo]
+tags: [typography]
 math: true
 mermaid: true
-
+image:
+  src: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/devices-mockup.png
+  width: 850
+  height: 585
 ---
 
 
