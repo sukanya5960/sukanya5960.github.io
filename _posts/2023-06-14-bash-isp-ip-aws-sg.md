@@ -16,7 +16,6 @@ Here is a simple bash script that adds your current ISP IP address to security g
 
 ##### Prerequisites
 - [Setup AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - it should have EC2 access
-- [Install jq](https://howtoinstall.co/en/jq)
 
 We are going to update an exisiting rule from the security group and the ID of security group and rule are passed as variables.  
 
