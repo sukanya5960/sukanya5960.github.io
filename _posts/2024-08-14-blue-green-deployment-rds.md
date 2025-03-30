@@ -24,13 +24,6 @@ A blue/green deployment essentially duplicates the live database (Blue) environm
 - Eliminate data loss during switchover. 
 - Switch over quickly, typically under a minute depending on your workload. 
 
-- [Setup AWS CLI](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html) - it should have EC2 access
-
-We are going to update an exisiting rule from the security group and the ID of security group and rule are passed as variables.  
-
-![image2](https://raw.githubusercontent.com/sukanya5960/sukanya5960.github.io/master/assets/media/sg.png)
-
-
 #### Steps
 
 ##### Preparing for a blue/green deployment 
